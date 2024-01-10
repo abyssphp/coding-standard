@@ -225,9 +225,6 @@
         <message>Variable "%s" not allowed in double-quoted string; use sprintf() or concatenation instead</message>
     </rule>
 
-    <!-- Require space after language constructs -->
-    <rule ref="Squiz.WhiteSpace.LanguageConstructSpacing"/>
-
     <!-- Require space around logical operators -->
     <rule ref="Squiz.WhiteSpace.LogicalOperatorSpacing"/>
 
