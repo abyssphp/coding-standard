@@ -1,0 +1,16 @@
+{
+  "name": "abyss/coding-standard",
+  "type": "phpcodesniffer-standard",
+  "require": {
+    "php": "^8.1",
+    "dealerdirect/phpcodesniffer-composer-installer": "^1.0",
+    "phpcsstandards/php_codesniffer": "^4.0.x-dev"
+  },
+  "minimum-stability": "dev",
+  "config": {
+    "allow-plugins": {
+      "dealerdirect/phpcodesniffer-composer-installer": true
+    },
+    "sort-packages": true
+  }
+}
