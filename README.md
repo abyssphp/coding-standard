@@ -1,10 +1,10 @@
-# Abyss Coding Standard
+# Charon Lab Coding Standard
 
 ## Installation
 
 1. Install via composer
     ```bash
-    composer require --dev abyss/coding-standard
+    composer require --dev charonlab/coding-standard
     ```
 2. Create the `phpcs.xml` file in root path of you repository
     ```xml

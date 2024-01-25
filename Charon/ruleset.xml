@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ruleset name="AbyssCodingStandard"
+<ruleset name="CharonCodingStandard"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:noNamespaceSchemaLocation="../vendor/phpcsstandards/php_codesniffer/phpcs.xsd"
 >
-    <description>Abyss Coding Standard</description>
+    <description>Charon Lab Coding Standard</description>
 
     <!-- args-->
     <arg value="sp"/>
