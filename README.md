@@ -10,7 +10,7 @@
     ```xml
     <?xml version="1.0"?>
     <ruleset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-             xsi:noNamespaceSchemaLocation="vendor/phpcsstandards/php_codesniffer/phpcs.xsd">
+             xsi:noNamespaceSchemaLocation="vendor/squizlabs/php_codesniffer/phpcs.xsd">
     
         <arg name="basepath" value="."/>
         <arg name="cache" value=".phpcs-cache"/>
