@@ -25,8 +25,8 @@
         <file>src</file>
         <file>test</file>
     
-        <!-- Include all rules from the Abyss Coding Standard -->
-        <rule ref="AbyssCodingStandard"/>
+        <!-- Include all rules from the Charon Coding Standard -->
+        <rule ref="CharonCodingStandard"/>
     </ruleset>
     ```
    
