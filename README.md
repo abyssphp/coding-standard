@@ -26,7 +26,7 @@
         <file>test</file>
     
         <!-- Include all rules from the Charon Coding Standard -->
-        <rule ref="CharonCodingStandard"/>
+        <rule ref="Charon"/>
     </ruleset>
     ```
    
