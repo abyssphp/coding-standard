@@ -1,8 +1,8 @@
 {
   "name": "charonlab/coding-standard",
-  "type": "phpcodesniffer-standard",
   "description": "Charon Lab Coding Standard",
   "license": "MIT",
+  "type": "phpcodesniffer-standard",
   "require": {
     "php": "^8.1",
     "dealerdirect/phpcodesniffer-composer-installer": "^1.0",
