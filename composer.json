@@ -9,7 +9,7 @@
     "squizlabs/php_codesniffer": "^4.0.x-dev"
   },
   "require-dev": {
-    "roave/security-advisories": "dev-latest"
+    "roave/security-advisories": "dev-master"
   },
   "minimum-stability": "dev",
   "config": {
